@@ -1,0 +1,53 @@
+# Standard Python .gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.pot
+*.mo
+*.db
+*.sqlite3
+*.env
+.env/
+.venv/
+venv/
+ENV/
+.envrc
+*.env.*
+*.cover
+.coverage
+.coverage.*
+.cache
+.tox/
+.nox/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Ignore agent skill folders
+.github/
