@@ -20,8 +20,7 @@ These skills require the **Microsoft Learn MCP Server** to access official Micro
 ### Install Microsoft Learn MCP Server in VS Code
 
 Click the link below to install the Microsoft Learn MCP server in VS Code:
-
-[Install Microsoft Learn MCP Server](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
 
 Or manually add to your VS Code MCP configuration:
 
